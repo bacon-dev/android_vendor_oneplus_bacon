@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/msm8974-common/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/oneplus/msm8974-common/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/oneplus/msm8974-common/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
-    vendor/oneplus/msm8974-common/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/oneplus/msm8974-common/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access \
     vendor/oneplus/msm8974-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/oneplus/msm8974-common/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
