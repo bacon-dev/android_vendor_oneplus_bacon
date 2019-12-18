@@ -17,6 +17,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
+    vendor/oneplus/bacon/proprietary/lib/libboringssl-compat.so:system/lib/libboringssl-compat.so \
     vendor/oneplus/bacon/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/oneplus/bacon/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/oneplus/bacon/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
